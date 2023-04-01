@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4FXIYW4muxoATFeEksMPCIKF6LWRvuH4d/ikHSphDzAl9eoAq70GOdQ72HK3aNHlF5hNPecyKzt+MXxOwRONkA==",
+  "dgSpecHash": "YApMdXVYz69Q5bNZ3fdSEWK2oaMpW2NWIsAsqwfzlc8XCx/T/XG/jr+qUc/gCi13EWPV6ifE6Q4V+K/xbKp4UA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\MVCLibrary\\MVCLibrary\\MVCLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Sheroz\\Source\\Repos\\MVCLibrary\\MVCLibrary\\MVCLibrary\\MVCLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sheroz\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Sheroz\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

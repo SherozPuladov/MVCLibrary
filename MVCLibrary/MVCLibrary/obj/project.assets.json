@@ -10510,19 +10510,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sheroz\\.nuget\\packages\\": {}
+    "C:\\Users\\Sheroz\\.nuget\\packages\\": {},
+    "C:\\Users\\Sheroz\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\MVCLibrary\\MVCLibrary\\MVCLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Sheroz\\Source\\Repos\\MVCLibrary\\MVCLibrary\\MVCLibrary\\MVCLibrary.csproj",
       "projectName": "MVCLibrary",
-      "projectPath": "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\MVCLibrary\\MVCLibrary\\MVCLibrary.csproj",
+      "projectPath": "C:\\Users\\Sheroz\\Source\\Repos\\MVCLibrary\\MVCLibrary\\MVCLibrary\\MVCLibrary.csproj",
       "packagesPath": "C:\\Users\\Sheroz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sheroz\\OneDrive\\Документы\\Projects\\MVCLibrary\\MVCLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Sheroz\\Source\\Repos\\MVCLibrary\\MVCLibrary\\MVCLibrary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\Sheroz\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\Sheroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sheroz\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10588,7 +10593,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
